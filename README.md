@@ -1,4 +1,4 @@
-# "Deep learning and machine learning in science - 2020 Spring
+# Deep learning and machine learning in science - 2020 Spring
 Repository for my coursework in "Deep learning and machine learning in science" course at ELTE  
 ## Homeworks
 **1. Photometric redshift estimation (regression)**  
