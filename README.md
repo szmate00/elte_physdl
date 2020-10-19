@@ -3,7 +3,7 @@
 # Deep learning and machine learning in science - 2020 Spring
 Repository for my coursework in "Deep learning and machine learning in science" course at ELTE<br>
 The final grade was determined by our scores on two in-class Kaggle challenges.
-## Homeworks
+## Challenges
 **1. Photometric redshift estimation (regression)**  
 
 Description:
