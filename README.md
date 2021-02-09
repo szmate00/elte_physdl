@@ -1,11 +1,11 @@
 <img src="https://ttkhok.elte.hu/sites/default/files/mindentudas-egyeteme/elte_cimer_ff.jpg" height="180" />
 
 # Deep learning and machine learning in science - Spring 2020<br>
-Repository for my coursework in the "Deep learning and machine learning in science" course at ELTE
----
+Repository for my coursework in the "Deep learning and machine learning in science" course at ELTE<br>
+<br>
 **Subject code:** deeplea17em<br>
 **Credits:** 2<br>
----
+<br>
 The final grade was determined by our scores on two in-class Kaggle challenges.
 ## Challenges
 **1. Photometric redshift estimation (regression)**  
