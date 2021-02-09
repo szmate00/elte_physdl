@@ -1,7 +1,8 @@
 <img src="https://ttkhok.elte.hu/sites/default/files/mindentudas-egyeteme/elte_cimer_ff.jpg" height="180" />
 
-# Deep learning and machine learning in science - Spring 2020
-Repository for my coursework in the "Deep learning and machine learning in science" course at ELTE<br>
+# Deep learning and machine learning in science - Spring 2020<br>
+Repository for my coursework in the "Deep learning and machine learning in science" course at ELTE
+---
 **Subject code:** deeplea17em<br>
 **Credits:** 2<br>
 ---
